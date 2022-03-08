@@ -1,5 +1,6 @@
 <template>
   <div>    
+      <!-- modificacion para commit -->
     <h2 class="mx-3" v-bind:style="{ color: azul}">Desafío número 3</h2>
         <div class="m-3">
         <h5>Tabla</h5>
